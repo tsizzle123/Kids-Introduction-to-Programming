@@ -15,4 +15,18 @@ Step 4: https://www.udemy.com/course/learn-to-code-with-minecraft/learn/lecture/
 Step 5: https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming
 Step 6: https://www.khanacademy.org/computing/pixar
 
+Additional Resources:
+Javascript for Kids: https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084
+Javascript Udemy: https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602948?start=0#overview
+Khan Academy: https://www.khanacademy.org/computing
+              https://www.khanacademy.org/math
+              
+IDE: https://code.visualstudio.com/download
+JDK: https://www.oracle.com/java/technologies/downloads/
+Scratch: https://scratch.mit.edu/download
+Node JS: https://nodejs.org/en/download/
+Liveshare for VSCode: https://code.visualstudio.com/learn/collaboration/live-share
+Whiteboard collab: https://mural.co/
+
+
 
