@@ -1,4 +1,4 @@
-'''Kids Introduction to Programming Overview 
+Kids Introduction to Programming Overview 
 
 This is a guide for a first time introduction to programming. 
 
@@ -11,5 +11,4 @@ It is key to understand Object Orientation at the begininng of programming. Some
 
 Step 3: 
 
-'''
 
