@@ -27,6 +27,9 @@ Scratch: https://scratch.mit.edu/download
 Node JS: https://nodejs.org/en/download/
 Liveshare for VSCode: https://code.visualstudio.com/learn/collaboration/live-share
 Whiteboard collab: https://mural.co/
+Lessons: https://my.codakid.com/free-trial/
+If stuck: https://www.geeksforgeeks.org/
+          https://stackoverflow.com/
 
 
 
