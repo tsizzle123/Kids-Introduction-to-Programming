@@ -11,9 +11,9 @@ Step 2: https://www.khanacademy.org/math/algebra
 Step 3: https://scratch.mit.edu/projects/editor/?tutorial=getStarted
 Step 4: https://www.udemy.com/course/learn-to-code-with-minecraft/learn/lecture/29240452?start=0#overview
         https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc (available via Xbox Gamepass also) 
-        
-Step 5: https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming
-Step 6: https://www.khanacademy.org/computing/pixar
+Step 5: https://my.codakid.com/courses/mod-creation-forge-your-sword-1-18/
+Step 6: https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming
+Step 7: https://www.khanacademy.org/computing/pixar
 
 Additional Resources:
 Javascript for Kids: https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084
